@@ -28,6 +28,10 @@
 <td>iOS 9.3.5</td>
 </tr>
 <tr>
+<td>iPad 4</td>
+<td>iOS 9.3.5</td>
+</tr>
+<tr>
 <td>iPad Mini 1</td>
 <td>iOS 9.3.5</td>
 </tr>
